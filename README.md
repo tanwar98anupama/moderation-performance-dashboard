@@ -1,4 +1,4 @@
-# Video Safety Operations — Moderation Performance Dashboard
+# Video Safety Operations - Moderation Performance Dashboard
 
 ## Project Overview
 An end-to-end moderation analytics system simulating a Trust & Safety 
@@ -15,9 +15,9 @@ while all other categories maintained 85-90%. Root cause identified as
 a category-level policy gap, not a staffing issue.
 
 ## Tech Stack
-- Python (pandas, matplotlib, seaborn) — Data generation & root cause analysis
-- SQL Server (SSMS) — Data storage & analyst queries
-- Tableau Public — Interactive dashboard
+- Python (pandas, matplotlib, seaborn) - Data generation & root cause analysis
+- SQL Server (SSMS) - Data storage & analyst queries
+- Tableau Public - Interactive dashboard
 
 ## Project Structure
 ```
