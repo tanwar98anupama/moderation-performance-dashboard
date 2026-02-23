@@ -1,0 +1,33 @@
+
+=== ROOT CAUSE ANALYSIS SUMMARY ===
+Period Analyzed: March 2024
+
+FINDING: Overall moderation accuracy dropped significantly in March 2024.
+
+ROOT CAUSE IDENTIFIED:
+- Primary driver: 'Hate Speech' category accuracy collapsed to 57-61% in March
+- Afternoon shift showed worst performance at 57.9%
+- Morning and Night shifts equally affected (60.3% and 61.4%)
+- All other categories (Animal Cruelty, Bullying, Child Safety, 
+  Self Harm, Violence) remained healthy between 85-90% across all shifts
+
+KEY INSIGHT:
+- The drop is NOT shift-specific — all three shifts show similar 
+  underperformance on Hate Speech
+- This rules out staffing or scheduling as the root cause
+- The uniform failure across shifts points to a category-level 
+  policy or guideline gap
+
+HYPOTHESIS:
+- Hate Speech moderation policies may have been updated in March 
+  without adequate reviewer training
+- Borderline Hate Speech content may lack clear decision guidelines,
+  causing inconsistent outcomes across all reviewers
+
+RECOMMENDED ACTIONS:
+1. Immediate: Audit Hate Speech policy guidelines for ambiguity
+2. Short term: Mandatory Hate Speech policy refresher for ALL shifts
+3. Short term: Add Hate Speech accuracy as a standalone KPI 
+   with a minimum 80% target in weekly scorecards
+4. Long term: Create an escalation queue for borderline Hate Speech 
+   cases to reduce inconsistent reviewer decisions
