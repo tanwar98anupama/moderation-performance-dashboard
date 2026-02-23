@@ -20,11 +20,14 @@ a category-level policy gap, not a staffing issue.
 - Tableau Public — Interactive dashboard
 
 ## Project Structure
+```
 moderation_dashboard/
+│
 ├── data/                  # Generated CSV files
 ├── sql/                   # All SQL queries
 ├── notebooks/             # Jupyter notebooks
 └── tableau/               # Tableau workbook
+```
 
 ## SQL Queries Built
 - Daily accuracy rate monitoring
