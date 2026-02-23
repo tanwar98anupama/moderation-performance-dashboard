@@ -1,4 +1,5 @@
-﻿2024-01,Animal Cruelty,1188,86,8.170000,417
+﻿month_of,content_category,total_cases,accuracy_perc,avg_procc_time,sla_breaches
+2024-01,Animal Cruelty,1188,86,8.170000,417
 2024-01,Self Harm,1175,87,8.340000,441
 2024-01,Violence,1177,87,8.140000,437
 2024-01,Bullying,1225,88,8.260000,442
