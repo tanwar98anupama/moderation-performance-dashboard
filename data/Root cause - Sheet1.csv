@@ -1,0 +1,31 @@
+month,content_category,shift,region,cases,accuracy_per
+2024-03,Hate Speech,Night,AMER,131,54
+2024-03,Hate Speech,Afternoon,EMEA,118,56
+2024-03,Hate Speech,Morning,APAC,124,56
+2024-03,Hate Speech,Afternoon,AMER,146,57
+2024-03,Hate Speech,Afternoon,APAC,128,59
+2024-03,Hate Speech,Morning,EMEA,124,60
+2024-03,Hate Speech,Morning,AMER,105,64
+2024-03,Hate Speech,Night,APAC,134,64
+2024-03,Hate Speech,Night,EMEA,142,65
+2024-04,Hate Speech,Night,APAC,108,78
+2024-06,Child Safety,Morning,EMEA,96,78
+2024-03,Violence,Afternoon,AMER,123,79
+2024-02,Violence,Night,AMER,102,80
+2024-04,Animal Cruelty,Afternoon,EMEA,126,81
+2024-05,Violence,Afternoon,EMEA,138,81
+2024-04,Animal Cruelty,Morning,EMEA,116,82
+2024-05,Animal Cruelty,Afternoon,AMER,125,82
+2024-05,Child Safety,Morning,AMER,127,82
+2024-06,Self Harm,Night,AMER,113,82
+2024-06,Self Harm,Night,EMEA,128,82
+2024-02,Hate Speech,Morning,AMER,116,83
+2024-02,Hate Speech,Morning,APAC,122,83
+2024-02,Violence,Night,EMEA,120,83
+2024-04,Animal Cruelty,Night,EMEA,130,83
+2024-04,Child Safety,Morning,APAC,128,83
+2024-04,Hate Speech,Afternoon,APAC,128,83
+2024-05,Hate Speech,Night,APAC,124,83
+2024-05,Violence,Afternoon,APAC,131,83
+2024-06,Bullying,Morning,APAC,129,83
+2024-06,Bullying,Night,APAC,104,83
