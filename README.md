@@ -41,7 +41,7 @@ moderation_dashboard/
 
 ## Key Insights
 - Hate Speech was the sole driver of March accuracy drop
-- All shifts equally affected — ruling out staffing as root cause
+- All shifts equally affected - ruling out staffing as root cause
 - Recommended: Policy refresher training + dedicated Hate Speech KPI tracking
 
 
